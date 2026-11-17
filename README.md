@@ -2,7 +2,6 @@
 
 Shiftly is a website for student workers who have more than one part-time job and a weekly hour limit. It adds up the hours from every job, shows how many hours are left this week, and estimates pay.
 
-**Live site:** (add your link here)
 
 ## What it does
 
